@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "$schema": "https://openapi.vercel.sh/vercel.json",
+    
+    "functions": {
+      "api/index.js": {
+        "memory": 3009,
+        "maxDuration": 30
+      }
+    }
+  }
